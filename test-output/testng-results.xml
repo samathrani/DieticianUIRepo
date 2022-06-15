@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T08:35:37 CDT" name="Default suite" finished-at="2022-06-14T08:35:38 CDT" duration-ms="967">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-06-14T08:35:37 CDT" name="Default test" finished-at="2022-06-14T08:35:38 CDT" duration-ms="967">
+      <class name="testRunner.TestNGMypateients">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:37 CDT" name="setUpClass" finished-at="2022-06-14T08:35:38 CDT" duration-ms="468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2d66530f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["search filter error messages"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients details"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["search filter error messages"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients details"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["search filter error messages"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients details"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Display list of patients"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients details"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Display list of patients"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients details"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify My Patient tab"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["My Patient elements"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify My Patient tab"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["My Patient elements"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify My Patient tab"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["My Patient elements"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Patient record"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Patients information"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Patient diet plan"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Patients information"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create new diet plan"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Patients information"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["View patients previous test reports"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Patients information"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Title of your scenario"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test report data"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify pagination"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test report data"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify pagination"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test report data"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify content of PDF file"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["PDF file"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify content of PDF file"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["PDF file"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify default text in name, email and phone filter input box goes away"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search patients by filter"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search patients by filter"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-14T08:35:38 CDT" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search patients by filter"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Patients"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.TestNGMypateients@202b0582]" started-at="2022-06-14T08:35:38 CDT" name="tearDownClass" finished-at="2022-06-14T08:35:38 CDT" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.TestNGMypateients -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
