@@ -1,0 +1,1 @@
+{"uuid":"a9c00834-c9d6-4a9f-a76d-dd8f75f2cf9d","name":"Scenario: Test if the user is able to upload a file with incorrect file format and incorrect size","children":["13b90e15-a5ba-4d13-a454-5a2f8fd48af2"],"befores":[],"afters":[],"start":1655328358031,"stop":1655328358036}
