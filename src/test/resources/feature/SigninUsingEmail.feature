@@ -1,5 +1,5 @@
 @Signin
-Feature: This feature encompasses all scenarios pertaining to Signin using email
+Feature: Signin using email
 
  @Test001
   Scenario: Validating Sign In with Email and password empty

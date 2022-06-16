@@ -1,7 +1,7 @@
 @Signin
-Feature: This feature encompasses all scenarios pertaining to Signin using username
-  
 
+Feature: Signin using username
+ 
   @Test001
   Scenario: Validating Signin process with all fields empty
     Given User is on Sign In Page

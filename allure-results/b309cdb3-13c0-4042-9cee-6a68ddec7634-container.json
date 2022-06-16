@@ -1,1 +1,0 @@
-{"uuid":"b309cdb3-13c0-4042-9cee-6a68ddec7634","name":"Scenario: Verify default text in name, email and phone filter input box disappears after started typing in it","children":["1081bf5c-a49b-449b-ae81-4dc6211e0886"],"befores":[],"afters":[],"start":1655328358788,"stop":1655328358789}
