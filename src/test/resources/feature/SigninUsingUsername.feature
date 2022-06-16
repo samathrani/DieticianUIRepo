@@ -1,5 +1,5 @@
 @Signin
-Feature: This feature encompasses all scenarios pertaining to Signin using username
+Feature: Signin using username
   
 
   @Test001
